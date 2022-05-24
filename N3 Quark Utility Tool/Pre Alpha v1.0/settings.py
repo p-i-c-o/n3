@@ -1,9 +1,9 @@
 # SETTINGS
 
 # !!! Replace the examples with your own !!! 
+# For MacOS, USB devices are stored in the "/Volumes" directory, hence the QuarkPath and the UsbPath variables below
 
-
-PicoPath = "/Volumes/N3QUARK"
+QuarkPath = "/Volumes/N3QUARK"
 UsbPath = "/Volumes"
 
-ScriptsPath = "/Users/elie/Desktop/N3 Quark GUI Backups/v1.0/Scripts"
+ScriptsPath = "/Scripts"
