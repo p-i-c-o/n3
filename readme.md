@@ -3,7 +3,7 @@
 
 Welcome to Network 3s official GitHub Repository, this is where we publish official updates and demo test our apps and softwares.
 
-## Details
+## Links
 
 [Website](https://www.network3.tk)
 
