@@ -5,9 +5,9 @@ Welcome to Network 3s official GitHub Repository, this is where we publish offic
 
 ## Details
 
-Website:    [Website](https://www.network3.tk)
+[Website](https://www.network3.tk)
 
-Twitter:    [Twitter](https://twitter.com/Network_3_)
+[Twitter](https://twitter.com/Network_3_)
 
 ## Current Projects
 
