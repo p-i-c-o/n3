@@ -1,6 +1,5 @@
+![N3 Logo](https://i.ibb.co/sqTSmZf/Untitled-design-2.png)
 
-
-# Network 3                   <img src="https://i.ibb.co/CJT3573/Network-3-logo.png" alt="drawing" width="200"/>
 ##### _readme.md made by p-i-c-o_
 
 Welcome to Network 3s official GitHub Repository, this is where we publish official updates and demo test our apps and softwares.
