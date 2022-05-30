@@ -1,6 +1,6 @@
 ![N3 Logo](https://i.ibb.co/sqTSmZf/Untitled-design-2.png)
 
-##### _readme.md made by p-i-c-o_
+# Network 3
 
 Welcome to Network 3s official GitHub Repository, this is where we publish official updates and demo test our apps and softwares.
 
