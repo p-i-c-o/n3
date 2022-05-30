@@ -19,5 +19,5 @@ When disabled:
 The N3 QUARK will excecute the payload when plugged into a computer.
 
 
-## Details
-Release Date: N/A
+## Release Date
+Not anytime soon ( i.e. maybe next year)
