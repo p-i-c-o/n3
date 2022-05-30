@@ -1,5 +1,4 @@
-# N3 QUARK
-##### _info.md made by p-i-c-o_
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
 
 The N3 QUARK is a cheap alternative to the Hak5 Rubber Ducky, including 2 slide switched to enable and disable either USB Mode (1) or Setup Mode (2)
 
