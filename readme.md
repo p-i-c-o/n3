@@ -1,4 +1,4 @@
-![N3 Logo](https://i.ibb.co/CJT3573/Network-3-logo.png)
+<img src="https://i.ibb.co/CJT3573/Network-3-logo.png" alt="drawing" width="200"/>
 # Network 3
 ##### _readme.md made by p-i-c-o_
 
