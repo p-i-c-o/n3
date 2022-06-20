@@ -13,4 +13,4 @@ Welcome to Network 3s official GitHub Repository, this is where we publish offic
 ## Current Projects
 
 [N3 QUARK](https://github.com/p-i-c-o/n3/tree/main/N3%20Quark%20Utility%20Tool):
-A similar product to the Hak5 Rubber Ducky, but at a cheap price
+A similar product to the Hak5 Rubber Ducky, but at a cheap price.
